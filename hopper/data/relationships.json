@@ -1,0 +1,914 @@
+[
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:DIS:0001",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0001",
+    "target": "HOPPER:PATH:0001",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:DIS:0002",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0002",
+    "target": "HOPPER:PATH:0008",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:DIS:0003",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0003",
+    "target": "HOPPER:PATH:0016",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0002",
+    "target": "HOPPER:DIS:0004",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0004",
+    "target": "HOPPER:PATH:0002",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0002",
+    "target": "HOPPER:DIS:0005",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0005",
+    "target": "HOPPER:PATH:0009",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0002",
+    "target": "HOPPER:DIS:0006",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0006",
+    "target": "HOPPER:PATH:0013",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0003",
+    "target": "HOPPER:DIS:0007",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0007",
+    "target": "HOPPER:PATH:0003",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0003",
+    "target": "HOPPER:DIS:0008",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0008",
+    "target": "HOPPER:PATH:0004",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0003",
+    "target": "HOPPER:DIS:0009",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0009",
+    "target": "HOPPER:PATH:0014",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0004",
+    "target": "HOPPER:DIS:0010",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0010",
+    "target": "HOPPER:PATH:0005",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0005",
+    "target": "HOPPER:DIS:0011",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0011",
+    "target": "HOPPER:PATH:0006",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0006",
+    "target": "HOPPER:DIS:0012",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0012",
+    "target": "HOPPER:PATH:0012",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0007",
+    "target": "HOPPER:DIS:0013",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0013",
+    "target": "HOPPER:PATH:0002",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0008",
+    "target": "HOPPER:DIS:0014",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0014",
+    "target": "HOPPER:PATH:0010",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0008",
+    "target": "HOPPER:DIS:0015",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0015",
+    "target": "HOPPER:PATH:0007",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0007",
+    "target": "HOPPER:DIS:0016",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0016",
+    "target": "HOPPER:PATH:0011",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_DISEASE",
+    "source": "HOPPER:HOST:0007",
+    "target": "HOPPER:DIS:0017",
+    "note": null
+  },
+  {
+    "type": "DISEASE_CAUSED_BY",
+    "source": "HOPPER:DIS:0017",
+    "target": "HOPPER:PATH:0015",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_RESISTANCE_FACTOR",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:GENE:0001",
+    "note": null
+  },
+  {
+    "type": "RESISTANCE_FACTOR_TARGETS_PATHOGEN",
+    "source": "HOPPER:GENE:0001",
+    "target": "HOPPER:PATH:0008",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_RESISTANCE_FACTOR",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:GENE:0002",
+    "note": null
+  },
+  {
+    "type": "RESISTANCE_FACTOR_TARGETS_PATHOGEN",
+    "source": "HOPPER:GENE:0002",
+    "target": "HOPPER:PATH:0001",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_RESISTANCE_FACTOR",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:GENE:0003",
+    "note": null
+  },
+  {
+    "type": "RESISTANCE_FACTOR_TARGETS_PATHOGEN",
+    "source": "HOPPER:GENE:0003",
+    "target": "HOPPER:PATH:0001",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_RESISTANCE_FACTOR",
+    "source": "HOPPER:HOST:0003",
+    "target": "HOPPER:GENE:0004",
+    "note": null
+  },
+  {
+    "type": "RESISTANCE_FACTOR_TARGETS_PATHOGEN",
+    "source": "HOPPER:GENE:0004",
+    "target": "HOPPER:PATH:0003",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_RESISTANCE_FACTOR",
+    "source": "HOPPER:HOST:0003",
+    "target": "HOPPER:GENE:0005",
+    "note": null
+  },
+  {
+    "type": "RESISTANCE_FACTOR_TARGETS_PATHOGEN",
+    "source": "HOPPER:GENE:0005",
+    "target": "HOPPER:PATH:0004",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_RESISTANCE_FACTOR",
+    "source": "HOPPER:HOST:0007",
+    "target": "HOPPER:GENE:0006",
+    "note": null
+  },
+  {
+    "type": "RESISTANCE_FACTOR_TARGETS_PATHOGEN",
+    "source": "HOPPER:GENE:0006",
+    "target": "HOPPER:PATH:0002",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_RESISTANCE_FACTOR",
+    "source": "HOPPER:HOST:0002",
+    "target": "HOPPER:GENE:0007",
+    "note": null
+  },
+  {
+    "type": "RESISTANCE_FACTOR_TARGETS_PATHOGEN",
+    "source": "HOPPER:GENE:0007",
+    "target": "HOPPER:PATH:0009",
+    "note": null
+  },
+  {
+    "type": "HOST_HAS_RESISTANCE_FACTOR",
+    "source": "HOPPER:HOST:0006",
+    "target": "HOPPER:GENE:0008",
+    "note": null
+  },
+  {
+    "type": "RESISTANCE_FACTOR_TARGETS_PATHOGEN",
+    "source": "HOPPER:GENE:0008",
+    "target": "HOPPER:PATH:0012",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_HAS_STRAIN",
+    "source": "HOPPER:PATH:0001",
+    "target": "HOPPER:STRAIN:0001",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_HAS_STRAIN",
+    "source": "HOPPER:PATH:0008",
+    "target": "HOPPER:STRAIN:0002",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_HAS_STRAIN",
+    "source": "HOPPER:PATH:0007",
+    "target": "HOPPER:STRAIN:0003",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_HAS_STRAIN",
+    "source": "HOPPER:PATH:0002",
+    "target": "HOPPER:STRAIN:0004",
+    "note": null
+  },
+  {
+    "type": "DISEASE_HAS_PHENOTYPE",
+    "source": "HOPPER:DIS:0001",
+    "target": "HOPPER:PHENO:0001",
+    "note": null
+  },
+  {
+    "type": "DISEASE_HAS_PHENOTYPE",
+    "source": "HOPPER:DIS:0015",
+    "target": "HOPPER:PHENO:0002",
+    "note": null
+  },
+  {
+    "type": "DISEASE_HAS_PHENOTYPE",
+    "source": "HOPPER:DIS:0006",
+    "target": "HOPPER:PHENO:0003",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0001",
+    "target": "HOPPER:DATA:0001",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0004",
+    "target": "HOPPER:DATA:0001",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0010",
+    "target": "HOPPER:DATA:0001",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0004",
+    "target": "HOPPER:DATA:0002",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0001",
+    "target": "HOPPER:DATA:0002",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0012",
+    "target": "HOPPER:DATA:0003",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0010",
+    "target": "HOPPER:DATA:0003",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0012",
+    "target": "HOPPER:DATA:0004",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0010",
+    "target": "HOPPER:DATA:0004",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0004",
+    "target": "HOPPER:DATA:0004",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0012",
+    "target": "HOPPER:DATA:0005",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0001",
+    "target": "HOPPER:DATA:0006",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0007",
+    "target": "HOPPER:DATA:0006",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0011",
+    "target": "HOPPER:DATA:0006",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:DATA:0007",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0004",
+    "target": "HOPPER:DATA:0007",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0001",
+    "target": "HOPPER:DATA:0008",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:STRAIN:0001",
+    "target": "HOPPER:DATA:0008",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0007",
+    "target": "HOPPER:DATA:0009",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:STRAIN:0003",
+    "target": "HOPPER:DATA:0009",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0012",
+    "target": "HOPPER:DATA:0010",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0013",
+    "target": "HOPPER:DATA:0010",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0012",
+    "target": "HOPPER:DATA:0011",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0013",
+    "target": "HOPPER:DATA:0011",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0001",
+    "target": "HOPPER:DATA:0012",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0001",
+    "target": "HOPPER:DATA:0012",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:DATA:0012",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0008",
+    "target": "HOPPER:DATA:0013",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0002",
+    "target": "HOPPER:DATA:0013",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:DATA:0013",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0002",
+    "target": "HOPPER:DATA:0014",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0013",
+    "target": "HOPPER:DATA:0014",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0004",
+    "target": "HOPPER:DATA:0014",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0007",
+    "target": "HOPPER:DATA:0015",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0015",
+    "target": "HOPPER:DATA:0015",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0011",
+    "target": "HOPPER:DATA:0016",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0016",
+    "target": "HOPPER:DATA:0016",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:GENE:0002",
+    "target": "HOPPER:DATA:0017",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:GENE:0003",
+    "target": "HOPPER:DATA:0017",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:DATA:0017",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:GENE:0004",
+    "target": "HOPPER:DATA:0018",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:GENE:0005",
+    "target": "HOPPER:DATA:0018",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0003",
+    "target": "HOPPER:DATA:0018",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:GENE:0006",
+    "target": "HOPPER:DATA:0019",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0007",
+    "target": "HOPPER:DATA:0019",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0001",
+    "target": "HOPPER:DATA:0020",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0001",
+    "target": "HOPPER:DATA:0020",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0002",
+    "target": "HOPPER:DATA:0021",
+    "note": null
+  },
+  {
+    "type": "PATHOGEN_REPRESENTED_IN",
+    "source": "HOPPER:PATH:0002",
+    "target": "HOPPER:DATA:0022",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0004",
+    "target": "HOPPER:DATA:0023",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0010",
+    "target": "HOPPER:DATA:0023",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:DATA:0024",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:GENE:0001",
+    "target": "HOPPER:DATA:0024",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:GENE:0002",
+    "target": "HOPPER:DATA:0024",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0005",
+    "target": "HOPPER:DATA:0025",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0011",
+    "target": "HOPPER:DATA:0025",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0003",
+    "target": "HOPPER:DATA:0026",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0008",
+    "target": "HOPPER:DATA:0026",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:DIS:0007",
+    "target": "HOPPER:DATA:0026",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:DATA:0027",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0004",
+    "target": "HOPPER:DATA:0027",
+    "note": null
+  },
+  {
+    "type": "ENTITY_LINKED_TO_DATASET",
+    "source": "HOPPER:HOST:0001",
+    "target": "HOPPER:DATA:0028",
+    "note": null
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:HOST:0001",
+    "target": null,
+    "note": "paddy, Oryza sativa"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:HOST:0002",
+    "target": null,
+    "note": "Solanum lycopersicum, Lycopersicon esculentum"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:HOST:0003",
+    "target": null,
+    "note": "Triticum aestivum, bread wheat"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:HOST:0004",
+    "target": null,
+    "note": "Zea mays, corn"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:HOST:0005",
+    "target": null,
+    "note": "Glycine max, soya bean"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:HOST:0006",
+    "target": null,
+    "note": "Manihot esculenta, manioc, yuca"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:HOST:0008",
+    "target": null,
+    "note": "Musa spp., plantain (related)"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:PATH:0001",
+    "target": null,
+    "note": "Pyricularia oryzae, rice blast fungus"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:PATH:0002",
+    "target": null,
+    "note": "potato late blight pathogen, tomato late blight pathogen"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:PATH:0003",
+    "target": null,
+    "note": "wheat stripe rust fungus, yellow rust fungus"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:PATH:0004",
+    "target": null,
+    "note": "wheat stem rust fungus, black rust fungus"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:PATH:0005",
+    "target": null,
+    "note": "Setosphaeria turcica, northern corn leaf blight fungus"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:PATH:0007",
+    "target": null,
+    "note": "Foc TR4, Panama disease fungus, Tropical Race 4"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:PATH:0008",
+    "target": null,
+    "note": "Xoo, rice bacterial blight pathogen"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:PATH:0010",
+    "target": null,
+    "note": "Xcm, banana Xanthomonas wilt pathogen, BXW pathogen"
+  },
+  {
+    "type": "ENTITY_HAS_SYNONYM",
+    "source": "HOPPER:PATH:0016",
+    "target": null,
+    "note": "Rice tungro spherical virus, Rice tungro bacilliform virus, RTSV/RTBV complex"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0001",
+    "target": null,
+    "note": "Global (esp. South & Southeast Asia)"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0002",
+    "target": null,
+    "note": "South & Southeast Asia"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0003",
+    "target": null,
+    "note": "South & Southeast Asia"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0004",
+    "target": null,
+    "note": "Global"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0005",
+    "target": null,
+    "note": "Global (warm, humid regions)"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0006",
+    "target": null,
+    "note": "Mediterranean, Middle East, expanding globally"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0007",
+    "target": null,
+    "note": "Global (temperate & highland regions)"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0008",
+    "target": null,
+    "note": "Global (incl. East Africa Ug99 lineage zone)"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0009",
+    "target": null,
+    "note": "North America, Central Asia"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0010",
+    "target": null,
+    "note": "Global"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0011",
+    "target": null,
+    "note": "South America, Sub-Saharan Africa, Asia"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0012",
+    "target": null,
+    "note": "Sub-Saharan Africa"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0013",
+    "target": null,
+    "note": "Global"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0014",
+    "target": null,
+    "note": "East Africa"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0015",
+    "target": null,
+    "note": "Southeast Asia, expanding globally"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0016",
+    "target": null,
+    "note": "Tropical & subtropical regions, global"
+  },
+  {
+    "type": "ENTITY_ASSOCIATED_WITH_REGION",
+    "source": "HOPPER:DIS:0017",
+    "target": null,
+    "note": "Global"
+  }
+]
