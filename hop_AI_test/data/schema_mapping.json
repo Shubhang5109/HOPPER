@@ -1,0 +1,91 @@
+{
+  "HOST": {
+    "description": "The plant host organism affected by a disease or pathogen.",
+    "source_field_variants": [
+      "host_species",
+      "plant",
+      "host",
+      "crop_species",
+      "host organism",
+      "organism_host",
+      "crop"
+    ]
+  },
+  "PATHOGEN": {
+    "description": "The causal biological agent (fungus, oomycete, bacterium or virus).",
+    "source_field_variants": [
+      "pathogen_name",
+      "causal_agent",
+      "organism",
+      "etiological_agent",
+      "causal organism",
+      "pathogen"
+    ]
+  },
+  "DISEASE": {
+    "description": "The named disease concept linking a host and a pathogen.",
+    "source_field_variants": [
+      "disease_name",
+      "disease",
+      "condition",
+      "syndrome"
+    ]
+  },
+  "GENE_OR_PROTEIN": {
+    "description": "A gene, protein, or resistance locus referenced by a record.",
+    "source_field_variants": [
+      "gene",
+      "gene_id",
+      "locus",
+      "protein",
+      "gene_symbol"
+    ]
+  },
+  "RESISTANCE_FACTOR": {
+    "description": "A characterized or predicted resistance gene/locus conferring reduced disease susceptibility.",
+    "source_field_variants": [
+      "resistance_gene",
+      "r_gene",
+      "rga",
+      "resistance_locus"
+    ]
+  },
+  "DATA_TYPE": {
+    "description": "The category of data a record represents (image dataset, interaction record, genome, expression data, etc).",
+    "source_field_variants": [
+      "category",
+      "data_category",
+      "dataset_type",
+      "content_type"
+    ]
+  },
+  "GEOGRAPHIC_REGION": {
+    "description": "The geographic scope of the underlying data or sampled material.",
+    "source_field_variants": [
+      "region",
+      "country",
+      "location",
+      "geography",
+      "geographic_focus"
+    ]
+  },
+  "SOURCE_DATABASE": {
+    "description": "The external database or resource a record was integrated from.",
+    "source_field_variants": [
+      "database",
+      "db_name",
+      "resource",
+      "repository",
+      "source"
+    ]
+  },
+  "EVIDENCE_TYPE": {
+    "description": "The kind of evidence underlying a record (experimental curation, computational prediction, image annotation, etc).",
+    "source_field_variants": [
+      "evidence",
+      "confidence",
+      "validation_type",
+      "method"
+    ]
+  }
+}

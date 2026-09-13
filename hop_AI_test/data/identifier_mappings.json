@@ -1,0 +1,224 @@
+[
+  {
+    "concept": "Rice blast (Magnaporthe oryzae / Oryza sativa)",
+    "hopper_id": "HOPPER:DIS:0001",
+    "chain": [
+      {
+        "database": "PHI-base",
+        "hopper_record": "HOPPER:DATA:0012",
+        "source_id": "Not available",
+        "url": "https://www.phi-base.org"
+      },
+      {
+        "database": "FungiDB",
+        "hopper_record": "HOPPER:DATA:0008",
+        "source_id": "Not available",
+        "url": "https://fungidb.org"
+      },
+      {
+        "database": "PlantVillage",
+        "hopper_record": "HOPPER:DATA:0001",
+        "source_id": "Not available",
+        "url": "https://plantvillage.psu.edu"
+      },
+      {
+        "database": "PlantPAD",
+        "hopper_record": "HOPPER:DATA:0006",
+        "source_id": "Not available",
+        "url": "http://plantpad.samlab.cn"
+      },
+      {
+        "database": "Rice SNP-Seek",
+        "hopper_record": "HOPPER:DATA:0024",
+        "source_id": "Not available",
+        "url": "http://snp-seek.irri.org"
+      },
+      {
+        "database": "Expression Atlas",
+        "hopper_record": "HOPPER:DATA:0020",
+        "source_id": "Not available",
+        "url": "https://www.ebi.ac.uk/gxa"
+      }
+    ]
+  },
+  {
+    "concept": "Rice bacterial blight (Xanthomonas oryzae pv. oryzae / Oryza sativa)",
+    "hopper_id": "HOPPER:DIS:0002",
+    "chain": [
+      {
+        "database": "PHI-base",
+        "hopper_record": "HOPPER:DATA:0013",
+        "source_id": "Not available",
+        "url": "https://www.phi-base.org"
+      },
+      {
+        "database": "Rice SNP-Seek",
+        "hopper_record": "HOPPER:DATA:0024",
+        "source_id": "Not available",
+        "url": "http://snp-seek.irri.org"
+      }
+    ]
+  },
+  {
+    "concept": "Late blight (Phytophthora infestans / potato & tomato)",
+    "hopper_id": "HOPPER:PATH:0002",
+    "chain": [
+      {
+        "database": "PHI-base",
+        "hopper_record": "HOPPER:DATA:0014",
+        "source_id": "Not available",
+        "url": "https://www.phi-base.org"
+      },
+      {
+        "database": "R-gene Database",
+        "hopper_record": "HOPPER:DATA:0019",
+        "source_id": "Not available",
+        "url": null
+      },
+      {
+        "database": "PRIDE / ProteomeXchange",
+        "hopper_record": "HOPPER:DATA:0022",
+        "source_id": "Not available",
+        "url": "https://www.ebi.ac.uk/pride/archive"
+      }
+    ]
+  },
+  {
+    "concept": "Cassava mosaic disease (ACMV / cassava)",
+    "hopper_id": "HOPPER:DIS:0012",
+    "chain": [
+      {
+        "database": "DPVweb",
+        "hopper_record": "HOPPER:DATA:0010",
+        "source_id": "Not available",
+        "url": "http://www.dpvweb.net"
+      },
+      {
+        "database": "PVsiRNAdb",
+        "hopper_record": "HOPPER:DATA:0011",
+        "source_id": "Not available",
+        "url": "http://www.nipgr.res.in/PVsiRNAdb"
+      },
+      {
+        "database": "CCMT Dataset",
+        "hopper_record": "HOPPER:DATA:0003",
+        "source_id": "Not available",
+        "url": null
+      },
+      {
+        "database": "FieldPlant",
+        "hopper_record": "HOPPER:DATA:0004",
+        "source_id": "Not available",
+        "url": "https://doi.org/10.1109/ACCESS.2023.3263042"
+      },
+      {
+        "database": "Cassava Leaf Disease Dataset",
+        "hopper_record": "HOPPER:DATA:0005",
+        "source_id": "Not available",
+        "url": "https://www.kaggle.com/c/cassava-leaf-disease-classification"
+      }
+    ]
+  },
+  {
+    "concept": "Banana Fusarium wilt / Panama disease (Foc TR4 / banana)",
+    "hopper_id": "HOPPER:DIS:0015",
+    "chain": [
+      {
+        "database": "PHI-base",
+        "hopper_record": "HOPPER:DATA:0015",
+        "source_id": "Not available",
+        "url": "https://www.phi-base.org"
+      },
+      {
+        "database": "FungiDB",
+        "hopper_record": "HOPPER:DATA:0009",
+        "source_id": "Not available",
+        "url": "https://fungidb.org"
+      }
+    ]
+  },
+  {
+    "concept": "Wheat rust resistance (Lr34 / Sr35 / wheat)",
+    "hopper_id": "HOPPER:HOST:0003",
+    "chain": [
+      {
+        "database": "PRGdb",
+        "hopper_record": "HOPPER:DATA:0018",
+        "source_id": "Not available",
+        "url": "https://prgdb.org"
+      },
+      {
+        "database": "WheatIS",
+        "hopper_record": "HOPPER:DATA:0026",
+        "source_id": "Not available",
+        "url": "http://wheatis.org"
+      }
+    ]
+  },
+  {
+    "concept": "Drought stress in staple crops (rice, maize)",
+    "hopper_id": "HOPPER:HOST:0001",
+    "chain": [
+      {
+        "database": "DroughtDB",
+        "hopper_record": "HOPPER:DATA:0027",
+        "source_id": "Not available",
+        "url": "http://pgsb.helmholtz-muenchen.de/droughtdb/"
+      },
+      {
+        "database": "STIFDB2",
+        "hopper_record": "HOPPER:DATA:0028",
+        "source_id": "Not available",
+        "url": "http://caps.ncbs.res.in/stifdb2"
+      },
+      {
+        "database": "Expression Atlas",
+        "hopper_record": "HOPPER:DATA:0021",
+        "source_id": "Not available",
+        "url": "https://www.ebi.ac.uk/gxa"
+      },
+      {
+        "database": "CyVerse",
+        "hopper_record": "HOPPER:DATA:0029",
+        "source_id": "Not available",
+        "url": "https://cyverse.org"
+      }
+    ]
+  },
+  {
+    "concept": "Soil microbiome & plant disease context",
+    "hopper_id": null,
+    "chain": [
+      {
+        "database": "MGnify",
+        "hopper_record": "HOPPER:DATA:0030",
+        "source_id": "Not available",
+        "url": "https://www.ebi.ac.uk/metagenomics"
+      },
+      {
+        "database": "TerrestrialMetagenomeDB",
+        "hopper_record": "HOPPER:DATA:0031",
+        "source_id": "Not available",
+        "url": "https://webapp.ufz.de/tmdb"
+      }
+    ]
+  },
+  {
+    "concept": "Soybean rust (Phakopsora pachyrhizi / soybean)",
+    "hopper_id": "HOPPER:DIS:0011",
+    "chain": [
+      {
+        "database": "SoyBase",
+        "hopper_record": "HOPPER:DATA:0025",
+        "source_id": "Not available",
+        "url": "https://soybase.org"
+      },
+      {
+        "database": "PlantPAD",
+        "hopper_record": "HOPPER:DATA:0006",
+        "source_id": "Not available",
+        "url": "http://plantpad.samlab.cn"
+      }
+    ]
+  }
+]
